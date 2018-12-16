@@ -6,7 +6,7 @@ description: "Note de lecture du livre de Marie Astier"
 
 *Le métier de boulanger est associé à une image d’artisanat et de savoir-faire. Contrairement à d’autres aliments, on ne pense pas forcément à questionner l’origine du pain que nous mangeons. Pourtant, derrière l’image d’Epinal du petit boulanger façonnant son pain à la main tous les matins, se cache une réalité bien différente. Dans son livre “Quel Pain voulons-nous ?”, Marie Astier nous fait entrer dans les coulisses de la fabrication du pain.*
 
-![couverture](/assets/images/pain/couverture.jpg)
+![couverture]({{site.url}}/assets/images/pain/couverture.jpg)
 
 ## Les semences
 
