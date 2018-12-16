@@ -1,0 +1,42 @@
+name: Ours bipolaire
+description: Transition écologique et numérique
+meta_description: "Transition écologique et numérique"
+
+aboutPage: false
+
+markdown: kramdown
+highlighter: rouge
+
+plugins: [jekyll-paginate]
+paginate: 20
+domain_name: 'https://benoitguigal.fr'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'https://benoitguigal.fr/blog'
+author:         'Benoît Guigal'
+authorTwitter:  'BGuigal'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
