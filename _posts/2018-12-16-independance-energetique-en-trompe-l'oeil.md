@@ -1,7 +1,7 @@
 ---
 title:  "Une indépendance énergétique en trompe l'oeil"
-date:   2018-12-16 00:00:00
-description: "Note de lecture du livre Manifeste Negawatt"
+date:   2018-12-16 17:00:00
+description: "Notes de lecture du livre Manifeste Negawatt"
 ---
 
 Un des arguments en faveur du nucléaire est l'indépendance énergétique. D'après le [dernier bilan énérgétique](http://www.statistiques.developpement-durable.gouv.fr/publications/p/2753/969/bilan-energetique-france-metropolitaine-2017-donnees.html) publié, le taux d'indépendance énergétique de la France en 2017 s'élèverait à 53% ! C'est impressionant mais totalement faux. Deux problèmes:
