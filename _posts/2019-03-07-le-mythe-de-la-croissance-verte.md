@@ -40,7 +40,7 @@ La foi dans le progrès pour résoudre tous les problèmes est hérité de l'éc
 
 ### 1 - Le risque est trop grand
 
-S'agissant d'inaction environnementale, ce qui est en jeu n'est rien de moins que la disparition de l'espèce humaine et des ecosystèmes biologiques. Dans cette optique, est-on vraiment certain de vouloir confier l'avenir de nos enfants aux ingénieurs du projet ITER de fusion nucléaire, sachant qu'on n'arrive même pas à mettre en route un EPR ? Ce serait un peu comme jouer à la roulette russe. Les chances de réussite de tels projets sont infimes et s'inscrivent dans des temporalités beaucoup trop longues. Or nous n'avons presque plus de temps. Continuer à encourager la société de consommation et le culte de la croissance comme le fait le gouvernement actuel est donc contraire au principe de précaution inscrit dans la Constitution. Le recours en justice contre le gouvernement de plusieurs ONG dans le cadre de l'affaire du siècle est donc totalement justifié.
+S'agissant d'inaction environnementale, ce qui est en jeu n'est rien de moins que la disparition de l'espèce humaine et des ecosystèmes biologiques. Dans cette optique, est-on vraiment certain de vouloir confier l'avenir de nos enfants aux ingénieurs du projet ITER de fusion nucléaire, sachant qu'on n'arrive même pas à mettre en route un EPR ? Ce serait un peu comme jouer à la roulette russe. Les chances de réussite de tels projets sont infimes et s'inscrivent dans des temporalités beaucoup trop longues. Or nous n'avons presque plus de temps. Continuer à encourager la société de consommation et le culte de la croissance est donc contraire au principe de précaution inscrit dans la Constitution. Le recours en justice contre le gouvernement de plusieurs ONG dans le cadre de l'affaire du siècle est donc totalement justifié.
 
 ![roulette-russe]({{site.url}}/assets/images/croissance-verte/roulette-russe.png)
 
@@ -56,10 +56,7 @@ On pourrait citer également le nucléaire comme énergie décarbonée. Certes m
 
 > *Il n’y a jamais de miracles en physique : pour aller vite et/ou faire beaucoup, il faut payer très cher (en énergie, en ressources et, donc, en argent) !* - [^3]
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">it took 1000s of years to get the amount of work to create light down to trivial amounts so everyone could use it<br><br>it took just 10 years to fuck it up and need a few megawatts of servers to turn one bulb on from the couch <a href="https://t.co/ikgelQR3Ls">pic.twitter.com/ikgelQR3Ls</a></p>&mdash; Internet of Shit (@internetofshit) <a href="https://twitter.com/internetofshit/status/1078428201104408576?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WE4AqWf0Upw?start=2204&end=2418" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 3 - Effet parc et effet rebond
 
