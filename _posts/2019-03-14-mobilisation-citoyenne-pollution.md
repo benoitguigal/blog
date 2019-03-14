@@ -1,6 +1,7 @@
 ---
 title: "Pollution et science collaborative"
 date: 2019-03-13 10:38:00
+description: "Face aux enjeux sanitaires de la pollution, des associations et des citoyens s'organisent"
 ---
 
 ### Les AASQA
@@ -35,12 +36,8 @@ On peut citer entre autres les projets suivants:
 
 Ils permettent de créer des cartes collaboratives de la qualité de l'air à partir de données récoltées par des stations de mesures DIY. Exemple avec le projet *Luftdaten* de l'Opendata lab de Stuttgart.
 
-<iframe id="Lufdaten"
-    title="Luftdaten"
-    width="100%"
-    height="500"
-    src="http://deutschland.maps.luftdaten.info/#5/46.514/11.316">
-</iframe>
+![station diy]({{site.url}}/assets/images/pollution/lufdaten.png)
+<figcaption style="text-align: center">Carte de la pollution en Europe</figcaption>
 
 <br/>
 
