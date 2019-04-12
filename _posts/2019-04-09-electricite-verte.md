@@ -31,7 +31,7 @@ Attention, qui dit « offre verte » ne dit pas nécessairement « électricité
 
 Les garanties d'origine kesako ?
 
-Pour chaque mégawattheures d'électricité verte produite est émis une garantie d'origine afin d'assurer la traçabilité de l'électricité produite. Le problème est que ce certificat peut être vendu séparément de l'électricité. Un fournisseur peut donc très bien acheter l'intégralité de son électricité auprès de centrales nucléaires ou centrales à charbon et la verdir en achetant des garanties d'origine auprès de producteurs d'électricité renouvelables situés en Europe (bien souvent de grosses installations hydrauliques amorties depuis des décennies).
+Pour chaque mégawattheures d'électricité verte produite est émit une garantie d'origine afin d'assurer la traçabilité de l'électricité produite. Le problème est que ce certificat peut être vendu séparément de l'électricité. Un fournisseur peut donc très bien acheter l'intégralité de son électricité auprès de centrales nucléaires ou centrales à charbon et la verdir en achetant des garanties d'origine auprès de producteurs d'électricité renouvelables situés en Europe (bien souvent de grosses installations hydrauliques amorties depuis des décennies).
 
 On peut donc distinguer deux types de fournisseurs verts:
 
